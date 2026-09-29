@@ -322,3 +322,23 @@ button:hover {
   text-align: center;
   cursor: pointer;
 }
+
+/* Work With Me and Contact text */
+
+.text-block {
+  clear: both;
+  margin: 10px 60px 40px 90px;
+  font-size: 20px;
+  color: rgb(90, 90, 90);
+  max-width: 900px;
+}
+
+.text-block h3 {
+  color: #7600bc;
+  font-size: 25px;
+  margin-bottom: 5px;
+}
+
+.text-block a {
+  color: #7600bc;
+}
